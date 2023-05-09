@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab1_PH32719</string>
+    <string name="content">"\n Android - Application Components:\n        1.Activity\n        2.Service\n        3.ContentProvider\n        4.BroadcastReceice\n    "</string>
+</resources>
